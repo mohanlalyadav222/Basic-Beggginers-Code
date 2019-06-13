@@ -1,2 +1,2 @@
-# Basic-Beggginers-Code
-It contains c programming basic begginers code.
+# Basic-Beginners-Code
+It contains c programming basic beginners code.
